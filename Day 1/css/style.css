@@ -7,3 +7,11 @@ a {
 	padding: 30px;
 }
 
+header {
+	background-color: blue;
+	padding: 30px;
+}
+
+h1, h2, a {
+	color: white;
+}

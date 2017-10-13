@@ -1,0 +1,65 @@
+body {
+	background-image: url(http://images.all-free-download.com/images/graphiclarge/3d_empty_room_01_hd_picture_167786.jpg);
+	background-size: 2100px 1420px;
+	width: 100%;
+
+}
+
+a {
+	text-decoration: none;
+	padding: 30px;
+}
+
+#wrapper {
+	width: 100%;
+}
+
+header {
+	background-image: url(http://www.stonystratford.gov.uk/upload/managerImage/Community%20Groups/Art%20Society.jpg);
+	background-size: cover;
+	padding: 30px;
+	width: 100%;
+	border: 5px solid black;
+}
+
+h1, h2, a {
+	color: white;
+}
+
+h1, h2 {
+	color: blue;
+	font-size: 36px;
+
+}
+
+.main-nav {
+	text-align: center;
+	background-color: navy;
+	padding: 5px;
+	margin-left: 20%;
+	width: 50%;
+	border-radius: 10%;
+}
+
+ul {
+	text-align: left;
+}
+
+li {
+	padding-left: 400px;
+	margin: 60px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	list-style: none;
+	/*border: 10px solid grey;*/
+}
+
+p {
+	float: right;
+	margin-right: 1110px;
+	color: white;
+	font-size: 25px;
+	background-color: blue;
+	padding: 5px;
+	border-radius: 20%;
+}

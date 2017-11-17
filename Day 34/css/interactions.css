@@ -1,0 +1,18 @@
+/* ================================= 
+  Photo Overlay Transition
+==================================== */
+
+.photo-overlay {
+	opacity: 0;
+	transition-property: opacity;
+	transition-duration: .5s;
+}
+.photo-overlay:hove .button {
+	opacity: 1;
+}
+
+.btn-icon
+/* ================================= 
+  Button Transitions
+==================================== */
+
